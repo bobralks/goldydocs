@@ -8,6 +8,7 @@ contentDir: content/en
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
 enableMissingTranslationPlaceholders: true
+metaDataFormat: "yaml"
 disableKinds:
   - taxonomy
   - taxonomyTerm
