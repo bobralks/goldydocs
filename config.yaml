@@ -1,4 +1,4 @@
-baseURL: /
+baseURL: https://docsy.example/
 title: Goldydocs
 enableRobotsTXT: true
 theme:
